@@ -1,0 +1,13 @@
+title: Kho Tàng Của Công
+description: Nơi lưu trữ Tut, Trick, Tài nguyên công nghệ, AI và Phần mềm.
+theme: minima
+author: Phạm Công
+lang: vi
+
+header_pages:
+ - about.md
+
+# Cấu hình menu (tự động hiện)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
